@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+My name is Sean Nguyen. An aspiring data analyst looking to make an impact through data!
 
 - 🔭 I’m currently working on **a Black History Month Infographic.**
 - 🌱 I’m currently learning Python and SQL.
