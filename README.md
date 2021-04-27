@@ -2,7 +2,7 @@
 
 My name is Sean Nguyen. An aspiring data analyst looking to make an impact through data!
 
-- 🔭 I’m currently working on **exploring personal activity data using the FitBit API and exploring StockX sales.**
+- 🔭 I’m currently working on **a LinkedIn Webscraper.**
 - 🌱 I’m currently learning Python and SQL.
 - 👯 I’m looking to collaborate on any projects related to product, sports, and marketing analytics.
 - 💬 Ask me about photography!
